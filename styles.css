@@ -463,4 +463,8 @@ tr:hover {
         bottom: 28%;
         left: 50%;
     }
+
+    .table{
+        padding: none;
+    }
 }
